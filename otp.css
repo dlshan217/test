@@ -1,0 +1,9 @@
+
+
+.otp-box{
+transition: all 0.2s ease;
+}
+.otp-box:focus{
+transform: scale(1.05);
+box-shadow: 0 0 0 2px #2563eb;
+}
